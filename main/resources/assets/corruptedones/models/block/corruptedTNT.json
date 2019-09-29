@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"particle": "corrupted:blocks/corruptedTNT_top",
+		"bottom": "corrupted:blocks/corruptedTNT_bottom",
+		"top": "corrupted:blocks/corruptedTNT_top",
+		"side": "corrupted:blocks/corruptedTNT_side"
+	}
+}

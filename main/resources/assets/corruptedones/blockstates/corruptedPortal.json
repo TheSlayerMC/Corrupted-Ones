@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "corrupted:corruptedPortal_ew" },
+        "axis=x": { "model": "corrupted:corruptedPortal_ns" }
+    }
+}
