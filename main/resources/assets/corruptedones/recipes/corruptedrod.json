@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+
+    {
+      "item": "corruptedones:corruptedblazerod"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:blaze_powder",
+        "count": 1
+    }
+}

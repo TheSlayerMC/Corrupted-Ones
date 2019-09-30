@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+
+    {
+      "item": "corruptedones:corruptedbone"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:dye",
+        "data": 15,
+        "count": 3
+    }
+}
