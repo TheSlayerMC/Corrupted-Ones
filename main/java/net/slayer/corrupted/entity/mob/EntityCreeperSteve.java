@@ -205,12 +205,12 @@ public class EntityCreeperSteve extends EntityModMob {
 
 	@Override
 	public double setAttackDamage(MobStats s) {
-		return s.baseDamage;
+		return s.creeperDamage;
 	}
 
 	@Override
 	public double setMaxHealth(MobStats s) {
-		return s.overworldHealth;
+		return s.creeperHealth;
 	}
 
 	@Override

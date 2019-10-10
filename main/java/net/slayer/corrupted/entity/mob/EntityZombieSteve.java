@@ -16,12 +16,12 @@ public class EntityZombieSteve extends EntityModMob {
 
 	@Override
 	public double setAttackDamage(MobStats s) {
-		return s.baseDamage;
+		return s.zombieDamage;
 	}
 
 	@Override
 	public double setMaxHealth(MobStats s) {
-		return s.overworldHealth;
+		return s.zombieHealth;
 	}
 
 	@Override

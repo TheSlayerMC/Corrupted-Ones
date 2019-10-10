@@ -155,12 +155,12 @@ public class EntitySkeletonSteve extends EntityModMob implements IRangedAttackMo
 
 	@Override
 	public double setAttackDamage(MobStats s) {
-		return s.baseDamage;
+		return s.skeletonDamage;
 	}
 
 	@Override
 	public double setMaxHealth(MobStats s) {
-		return s.overworldHealth;
+		return s.skeletonHealth;
 	}
 
 	@Override

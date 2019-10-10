@@ -42,7 +42,7 @@ public class SlayerAPI {
 			MOD_NAME = "The Corrupted Ones", 
 			MOD_ID = "corruptedones", 
 			PREFIX = MOD_ID + ":", 
-			MOD_VERSION = "0.1.0";
+			MOD_VERSION = "0.1.1";
 	public static final boolean 
 			DEVMODE = true,
 			BETA = true;
